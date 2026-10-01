@@ -345,10 +345,10 @@ detector=True
 
 ## 9. Nhóm thực hiện
 
-- Nguyễn Trung Đức - 24100339: Image Classification
-- Phạm Duy Khánh - 22010352: Object Detection
-- Đỗ Đăng Dương - 24100293: Image Retrieval
-- Mai Tiến Đạt - 24100276: RAG Chatbot + tích hợp hệ thống
+- Nguyễn Trung Đức: Image Classification
+- Phạm Duy Khánh: Object Detection
+- Đỗ Đăng Dương: Image Retrieval
+- Mai Tiến Đạt: RAG Chatbot + tích hợp hệ thống
 
 ---
 
