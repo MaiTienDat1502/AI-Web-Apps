@@ -1,0 +1,32 @@
+[
+  {
+    "path": "data\\images\\beach.jpg",
+    "label": "beach",
+    "source": "custom"
+  },
+  {
+    "path": "data\\images\\car.jpg",
+    "label": "car",
+    "source": "custom"
+  },
+  {
+    "path": "data\\images\\cat.jpg",
+    "label": "cat",
+    "source": "custom"
+  },
+  {
+    "path": "data\\images\\dog.jpg",
+    "label": "dog",
+    "source": "custom"
+  },
+  {
+    "path": "data\\images\\flower.jpg",
+    "label": "flower",
+    "source": "custom"
+  },
+  {
+    "path": "data\\images\\mountain.jpg",
+    "label": "mountain",
+    "source": "custom"
+  }
+]
